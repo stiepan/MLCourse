@@ -1,2 +1,2 @@
 # MLCourse
-Assignments for ML course
+My solutions of the assignments for Deep Nerual Networks course at MIMUW
